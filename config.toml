@@ -2,6 +2,7 @@ baseURL = "http://jumpinline.ivanportugal.com/"
 languageCode = "en-us"
 title = "Jump In Line"
 theme = "hallo"
+publishDir = "docs"
 
 [Author]
   name = "Ivan Portugal"
