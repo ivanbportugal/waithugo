@@ -1,0 +1,21 @@
+baseURL = "http://jumpinline.ivanportugal.com/"
+languageCode = "en-us"
+title = "Jump In Line"
+theme = "hallo"
+
+[Author]
+  name = "Ivan Portugal"
+
+[params]
+
+  [[params.links]]
+    iconset = "fas"
+    icon = "home"
+    title = "Jump In Line"
+    url = "http://jumpinline.ivanportugal.com/"
+
+  [[params.links]]
+    iconset = "fas"
+    icon = "envelope"
+    title = "E-mail"
+    url = "mailto:ivanbportugal@gmail.com"
